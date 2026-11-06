@@ -1,0 +1,6 @@
+{
+  "name": "EDITVAULT - Premium Digital Creator Marketplace",
+  "description": "A high-end marketplace for video editors, motion designers, and content creators offering curated asset libraries, software workflows, manual UPI payment verification, and secure download access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
